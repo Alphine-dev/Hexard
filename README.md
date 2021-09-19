@@ -1,2 +1,2 @@
 # Hexard
-A library/framework for technically advance web application
+A library / framework for technically advance web application
