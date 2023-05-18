@@ -4,3 +4,5 @@
 * Edited README.md 13 hours after the reposotory has been created.
 * Committed AUTHORS.md.
 * Committed CHANGELOG.md.
+* Committed package.json
+* Committed src/index.js

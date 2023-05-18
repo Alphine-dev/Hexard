@@ -1,0 +1,23 @@
+{
+  "name": "hexard",
+  "version": "1.0.0",
+  "description": "a simple solition for the problems of world wide web",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alphine-dev/Hexard.git"
+  },
+  "keywords": [
+    "web",
+    "component"
+  ],
+  "author": "Arsole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alphine-dev/Hexard/issues"
+  },
+  "homepage": "https://github.com/Alphine-dev/Hexard#readme"
+}
