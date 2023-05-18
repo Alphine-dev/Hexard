@@ -14,4 +14,4 @@
 
 * Committed .gitignore
 
-* installed eslint, jsdoc, jest, parcel, prettier.
+* installed eslint, jsdoc, jest, parcel, prettier, maquette
