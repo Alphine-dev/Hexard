@@ -1,10 +1,11 @@
 {
   "name": "hexard",
   "version": "1.0.0",
-  "description": "a simple solition for the problems of world wide web",
-  "main": "src/index.js",
+  "description": "a simple solution for the problems of the world wide web",
+  "main": "dist/bundle.js",
   "scripts": {
-    "test": "none"
+    "test": "jest",
+    "build": "parcel build src/index.html --out-dir dist"
   },
   "repository": {
     "type": "git",
