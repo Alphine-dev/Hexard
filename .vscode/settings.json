@@ -1,0 +1,10 @@
+{
+    "editor.fontSize": 16,
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.wordWrap": "on",
+    ".git": true,
+    "files.exclude": {
+        "node_modules": true,
+    },
+}
