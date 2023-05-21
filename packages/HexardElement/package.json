@@ -1,0 +1,20 @@
+{
+  "name": "hexardelement",
+  "version": "1.0.0",
+  "description": "hexard element",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "none"
+  },
+  "author": "arsole",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^8.41.0",
+    "parcel": "^2.8.3",
+    "prettier": "^2.8.8"
+  }
+}
